@@ -1,0 +1,15 @@
+.idea/*
+
+terraform/.terraform/*
+
+terraform/*.tfstate
+terraform/*.tfstate.*
+terraform/*.tfvars
+
+terraform/.terraformrc
+terraform/terraform.rc
+
+.DS_Store
+
+terraform/crash.log
+
